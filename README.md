@@ -8,13 +8,13 @@
   <a href="https://github.com/saklan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank"> <!-- 👈 IMPORTANT: Add your portfolio link here -->
+  <a href="https://moveasone.co.uk/about" target="_blank"> <!-- 👈 IMPORTANT: Add your portfolio link here -->
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4¢er=true&vCenter=true&width=435&lines=Full-Stack+Development+with+Laravel+%26+React;Solving+Complex+Problems+with+Algorithms;Automating+Workflows+on+Linux/VPS;API+Development+and+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4¢er=true&vCenter=true&width=435&lines=Full-Stack+Development+with+Laravel+and+React;Solving+Complex+Problems+with+Algorithms;Automating+Workflows+on+Linux+Servers;API+Development+and+Integration" alt="Typing SVG" />
 </p>
 
 ---
