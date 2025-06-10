@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4¢er=true&vCenter=true&width=435&lines=Full-Stack+Development+with+Laravel+and+React;Solving+Complex+Problems+with+Algorithms;Automating+Workflows+on+Linux+Servers;API+Development+and+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=5EEAD4¢er=true&vCenter=true&width=435&lines=Full-Stack+Development+with+Laravel+%26+React;Solving+Complex+Problems+with+Algorithms;Automating+Workflows+on+Linux+Servers;API+Development+%26+Integration" alt="Typing SVG" />
 </p>
 
 ---
