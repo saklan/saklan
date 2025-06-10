@@ -1,73 +1,87 @@
-<h1 align="center">Hi 👋, I'm Md Ajharul Islam (saklan)</h1>
-<h3 align="center">🚀 Expert Web Developer | 💻 Competitive Programmer | 🧠 Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Md Ajharul Islam (Saklan)</h1>
+<h3 align="center">A Passionate Full-Stack Developer, Competitive Programmer, and Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Building+beautiful+websites+since+2019;Competitive+Programming+lover;Skilled+in+Laravel%2C+React%2C+Node.js;VPS+%7C+API+%7C+Automation+%7C+Linux+Savvy" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/saklanbd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saklan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank"> <!-- 👈 IMPORTANT: Add your portfolio link here -->
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EEAD4¢er=true&vCenter=true&width=435&lines=Full-Stack+Development+with+Laravel+%26+React;Solving+Complex+Problems+with+Algorithms;Automating+Workflows+on+Linux/VPS;API+Development+and+Integration" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💼 About Me
+### 👨‍💻 About Me
 
-- 🔭 **Working Remotely** at [Move As One (UK)](https://moveasone.co.uk/about) since 2019  
-- 🎓 **Studying** BSc in CSE at **North East University, Sylhet**  
-- 🏅 Completed **Diploma in Computer Technology** from **Sylhet Polytechnic Institute**  
-- 🧠 Strong interest in **Number Theory, Graph Theory, and Algorithms**  
-- 🌍 I build **robust websites, solve real-world problems**, and automate stuff
+I'm a dedicated and results-oriented **Full-Stack Developer** with over 4 years of remote experience at **[Move As One (UK)](https://moveasone.co.uk/about)**. My passion lies in building robust, scalable web applications and solving complex problems through code.
 
----
-
-### 💼 Professional Tech Stack
-
-#### 🔷 Languages & Frameworks
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-#### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VPS](https://img.shields.io/badge/VPS%20Hosting-0078D6?style=flat-square&logo=azuredevops&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🔭 I’m currently building and maintaining sophisticated web solutions and exploring new technologies.
+- 🎓 I'm pursuing a **BSc in CSE** at North East University and hold a **Diploma in Computer Technology**.
+- 🌱 My core interests are in **Algorithms, Data Structures, and Number Theory**, which I actively apply in competitive programming.
+- 💬 Ask me about **Laravel, React, Node.js, API design, or Linux/VPS management**.
+- ⚡ Fun fact: I believe in the philosophy of continuous improvement: "Woe to the one whose today is not better than his yesterday."
 
 ---
 
-### 🌟 Achievements
+### 🛠️ My Tech Stack
 
-- ✅ **Developed & deployed** 20+ commercial-grade web applications
-- 🎖️ **Arctic Code Vault Contributor** (GitHub Archive Program)
-- 🧠 Ranked in online programming contests
-- 🧪 Built multiple custom admin panels, API integrations, dashboards
+My toolbox includes a variety of languages, frameworks, and platforms to build and deploy applications efficiently.
 
----
-
-### ✨ Philosophy
-
-> "Woe to the one whose today is not better than his yesterday."  
-> — _A reminder to grow every single day_
+| Frontend                                                                                                                                                             | Backend                                                                                                                                                                        | Databases & DevOps                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                                                | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />                                                                              | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                    |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />                                                       | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />                                                                      | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />                                                                                     |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                   | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                                                                     | <img src="https://img.shields.io/badge/VPS_Hosting-0078D6?style=for-the-badge&logo=digitalocean&logoColor=white" />                                                                       |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                                                    | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                                                                              | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />                                                                                   |
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Key Achievements & Projects
+
+- ✅ **Led the development and deployment** of over 20 commercial web applications, enhancing business processes and user engagement.
+- 🎖️ Recognized as a **GitHub Arctic Code Vault Contributor** for contributions to the open-source community.
+- 🧠 **Achieved competitive rankings** in various online programming contests, demonstrating strong problem-solving abilities.
+- 🧪 **Engineered custom admin panels, RESTful APIs, and automation scripts** that have significantly improved workflow efficiency for clients.
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saklan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saklan&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saklan&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Md Ajharul Islam's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saklan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saklan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/saklanbd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-9cf?style=for-the-badge)](https://moveasone.co.uk/about)
-[![GitHub](https://img.shields.io/badge/GitHub-saklan-181717?style=for-the-badge&logo=github)](https://github.com/saklan)
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out to me!
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/saklanbd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saklan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank"> <!-- 👈 Add your portfolio link here again -->
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<p align="center">⚡ Built with ❤️ by <strong>Md Ajharul Islam</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EEAD4&height=150§ion=footer"/>
+</p>
